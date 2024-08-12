@@ -120,17 +120,12 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
     npm install
     ```
 
-3. Start the development server:
-    ```bash
-    npm start
-    ```
-
 ### Running Tests
 
 To run the tests, use:
 
 ```bash
-npm test
+npm link
 ```
 
 ## License
