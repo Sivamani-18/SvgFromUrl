@@ -132,6 +132,8 @@ npm link
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+<!--
+
 ## Acknowledgments
 
 Thanks to all contributors and open-source projects that helped in building this component.
